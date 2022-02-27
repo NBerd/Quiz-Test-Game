@@ -1,1 +1,1 @@
-# Quiz-Test-Game
+# Тестовое задание на должность Junior Unity Developer
